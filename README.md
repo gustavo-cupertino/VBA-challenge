@@ -12,7 +12,7 @@ VBA challenge Module 2.bas
 
 - This module should run the script on all sheets at once. 
   
-alphabetical_testing_Solved GPfinal.xlsm
+alphabetical_testing_Solved GP.xlsm
 
 - This is the testing database while writing the script. 
   
