@@ -16,7 +16,7 @@ Sub summary_table()
 
     Dim tickers As String
 
-    Dim stock_volume As Long
+    Dim stock_volume As LongLong
     
     stock_volume = 0
 
